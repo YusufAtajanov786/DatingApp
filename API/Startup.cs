@@ -46,7 +46,7 @@ namespace ForCopy
             });
             services.AddCors();
             services.AddIdentityServices(_config);
-           
+                
 
 
         }
